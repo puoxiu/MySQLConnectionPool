@@ -106,3 +106,8 @@ make
 
 
 * 是一个学习项目，还没有达到可以在生产环境中使用的能力
+
+# github
+创建仓库：MySQLConnectionPool
+设置ssh密钥
+> https://blog.csdn.net/qq_44998513/article/details/133828886
